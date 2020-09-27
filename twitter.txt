@@ -1,0 +1,4 @@
+consumerKey <Your Twitter API Key>
+consumerSecret <Your Twitter API Secret>
+accessToken <Your Twitter Access Token>
+accessTokenSecret <Your Twitter Access Secret>
