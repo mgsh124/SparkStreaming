@@ -1,6 +1,6 @@
 # SparkStreaming
 Spark Streaming project using Scala, Spark streaming, integrating with Hive and Kafka.
-[Video Demo](later)
+[Video Demo](https://web.microsoftstream.com/video/b38619e9-6598-46fa-92dc-000e9a60f7e1)
 ## Part 1: Get Twitter popular hashtags
 - Need a Twitter credentials fill in twitter.txt
 - Need creating an empty folder "checkpoint"
